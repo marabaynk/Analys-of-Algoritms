@@ -1,0 +1,14 @@
+E:\PROJECTS VS\5 семестр\Analysis of algoritms\Lab_01\Lab_01\bin\Debug\Lab_01.exe.config
+E:\PROJECTS VS\5 семестр\Analysis of algoritms\Lab_01\Lab_01\bin\Debug\Lab_01.exe
+E:\PROJECTS VS\5 семестр\Analysis of algoritms\Lab_01\Lab_01\bin\Debug\Lab_01.pdb
+E:\PROJECTS VS\5 семестр\Analysis of algoritms\Lab_01\Lab_01\obj\Debug\Lab_01.csprojResolveAssemblyReference.cache
+E:\PROJECTS VS\5 семестр\Analysis of algoritms\Lab_01\Lab_01\obj\Debug\Lab_01.csproj.CoreCompileInputs.cache
+E:\PROJECTS VS\5 семестр\Analysis of algoritms\Lab_01\Lab_01\obj\Debug\Lab_01.exe
+E:\PROJECTS VS\5 семестр\Analysis of algoritms\Lab_01\Lab_01\obj\Debug\Lab_01.pdb
+\\Mac\Home\Desktop\АА\lab01\Lab_01\bin\Debug\Lab_01.exe.config
+\\Mac\Home\Desktop\АА\lab01\Lab_01\bin\Debug\Lab_01.exe
+\\Mac\Home\Desktop\АА\lab01\Lab_01\bin\Debug\Lab_01.pdb
+\\Mac\Home\Desktop\АА\lab01\Lab_01\obj\Debug\Lab_01.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\АА\lab01\Lab_01\obj\Debug\Lab_01.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\АА\lab01\Lab_01\obj\Debug\Lab_01.exe
+\\Mac\Home\Desktop\АА\lab01\Lab_01\obj\Debug\Lab_01.pdb
